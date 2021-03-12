@@ -1,5 +1,5 @@
-#R Basics
-##Installing R
+# R Basics
+## Installing R
 Installing R enviroment using homebrew-cask
 ```bash
 brew cask install r
