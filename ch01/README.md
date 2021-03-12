@@ -6,7 +6,7 @@ brew cask install r
 ```
 Installing RStudio
 ```bash
-brew cask install r
+brew cask install rstudio
 ```
 
 ## Working Directories
