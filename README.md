@@ -1,2 +1,4 @@
 # econometrics-with-r
-Econometrics With R
+[[img/logo.png]]
+[Econometrics With R](https://www.econometrics-with-r.org/index.html)
+
