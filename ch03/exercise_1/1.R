@@ -5,7 +5,7 @@ Y_tilde <- function(c){
          
 # repeatedly compute estimates and store the results in est_biased
 set.seed(123)
-est_biased <- replicate(Y_tilde(rnorm(5, mean = 10, sd = 25)),5)
+est_biased <- replicate(expr = Y_tilde(rnorm(5, mean = 10, sd = 25)),n = 5)
          
          
 # plot a histogram of est_biased
